@@ -5,8 +5,6 @@ To build from scratch run these commands:
 ```bash
 # install dependencies
 npm install
-# prepocess styles
-gulp styles
 # collect build files (dev mode compatible)
 gulp build
 # archive files for release
